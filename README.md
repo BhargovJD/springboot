@@ -1,3 +1,5 @@
+4. https://start.spring.io/
+   Spring web dependency
 5. maven : add to system env variable and in path also
    https://maven.apache.org/download.cgi#CurrentMaven
 6. https://mvnrepository.com/
@@ -9,4 +11,15 @@
    cmd: mvn package
    cmd: java -jar demo-0.0.1-SNAPSHOT.jar
    cmd: mvn install
-7. 
+7. Structure of Spring Boot Application
+8. IoC in Spring Boot
+   IoC = Inversion of Control.
+   In very simple words:
+   IoC means you don't create and manage your objects yourself. 
+   Spring creates and manages them for you.
+
+   ApplicationContext in Spring Boot
+   Since we just discussed IoC, think of ApplicationContext as the main container that manages Spring objects (Beans).
+
+   
+   
